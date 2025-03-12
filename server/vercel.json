@@ -1,5 +1,4 @@
 {
-    "installCommad": "npm install express cors mongoose dotenv",
     "runCommand": "nodemon server.js",
     "builds": [
         {
