@@ -1,5 +1,4 @@
 {
-    "runCommand": "nodemon server.js",
     "builds": [
         {
             "src": "index.js",
